@@ -1,7 +1,5 @@
 ## Oii, eu sou Stevam Fraga e curso desenvolvimento web
 
-- 🔭 Ainda não trabalho
-- 🌱 Estudando Html e Css
 
 <div>
   <a href="https://github.com/stevamm">
